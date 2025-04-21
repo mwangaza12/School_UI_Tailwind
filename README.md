@@ -1,1 +1,1 @@
-# A School Website built in TailwindCSS
+# A School Website built in TailwindCSS library
